@@ -10,9 +10,9 @@
 /family,man/align,neutral/nature,mild/god,eyth/
 /family,man/align,neutral/nature,bashful/god,eyth/
 /family,man/align,neutral/nature,naive/god,itzpalt/
-/family,man/align,neutral/nature,lax/god,eyth/
+/family,man/align,neutral/nature,lax/god,itzpalt/
 /family,man/align,neutral/nature,serious/god,eyth/
-/family,man/align,neutral/nature,rash/god,eyth/
+/family,man/align,neutral/nature,rash/god,itzpalt/
 /family,man/align,neutral/nature,careful/nature,docile/nature,naughty/directhealby,90119/medic/god,itzpalt/
 /family,man/align,neutral/nature,lax/nature,jolly/god,eyth/
 /family,man/align,neutral/nature,serious/god,eyth/
@@ -37,7 +37,7 @@
 /family,man/align,neutral/nature,idleness/god,eyth/buffby,90377/buffer/
 /family,man/align,neutral/nature,hardy/god,eyth/
 /family,man/align,neutral/nature,noble/god,eyth/buffby,90377/buffer/
-/family,man/align,neutral/nature,modest/nature,coquettish/god,eyth/spellattackby,90175/spellattacker/
+/family,man/align,neutral/nature,modest/nature,coquettish/spellattackby,90175/spellattacker/god,itzpalt/
 /family,man/align,neutral/nature,rash/god,eyth/directhealby,90119/medic/
 /family,man/align,neutral/nature,honest/nature,impish/nature,serious/god,eyth/
 /family,man/align,neutral/nature,foxy/nature,courteous/god,eyth/

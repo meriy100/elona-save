@@ -1,6 +1,6 @@
-/align,neutral/trait74,2/trait86,1/god,jure/
-/family,man/align,chaotic/nature,naughty/pet,0/god,jure/
-/family,man/align,chaotic/nature,insensibility/pet,0/god,mani/
+/align,neutral/trait86,1/god,jure/trait74,3/
+/family,man/align,chaotic/nature,impish/nature,coquettish/pet,0/god,mani/
+/family,man/align,neutral/nature,docile/pet,0/god,jure/
 
 
 
@@ -14,12 +14,12 @@
 
 
 
-/family,man/shopguard/align,neutral/nature,quirky/nature,insensibility/god,eyth/
-/family,man/align,neutral/nature,docile/god,eyth/
+/family,man/shopguard/align,neutral/nature,quirky/nature,insensibility/god,eyth/directhealby,90119/medic/
+/family,man/align,neutral/nature,docile/god,opatos/
 /family,man/align,neutral/nature,bashful/god,opatos/
 /family,man/align,neutral/nature,calm/nature,quirky/god,opatos/
 /family,man/align,neutral/nature,impish/god,eyth/
-/family,man/shopguard/align,neutral/nature,careful/nature,heat/god,eyth/trait68,1/debuffby,90176/directhealby,90551/debuffer/medic/
+/family,man/shopguard/align,neutral/nature,careful/nature,heat/god,eyth/trait68,1/debuffby,90176/debuffer/
 /family,man/align,neutral/nature,mild/god,eyth/
 /family,man/align,neutral/nature,serious/god,eyth/spellattackby,90175/spellattacker/
 /family,man/align,neutral/nature,heat/nature,brave/god,opatos/
@@ -28,7 +28,7 @@
 /family,man/shopguard/align,neutral/nature,mild/nature,modest/god,eyth/spellattackby,90122/spellattacker/
 /family,man/align,neutral/nature,quirky/nature,brave/god,eyth/spellattackby,90175/spellattacker/
 /family,man/align,neutral/nature,rash/god,eyth/
-/family,man/align,neutral/nature,jolly/god,opatos/
+/family,man/align,neutral/nature,jolly/god,opatos/buffby,90377/buffer/
 /family,man/shopguard/align,neutral/nature,sassy/god,itzpalt/
 /family,man/align,neutral/nature,mild/god,eyth/
 /family,man/shopguard/align,neutral/nature,delusional/nature,modest/nature,courteous/god,itzpalt/
@@ -39,22 +39,22 @@
 /family,man/align,neutral/nature,courteous/god,eyth/
 /family,man/align,neutral/nature,sassy/god,eyth/spellattackby,90122/spellattacker/
 /family,man/align,neutral/nature,stubborn/nature,noble/god,opatos/
-/family,man/align,neutral/nature,bashful/god,eyth/
+/family,man/align,neutral/nature,bashful/god,opatos/
 /family,man/align,neutral/nature,lax/god,eyth/
 /family,man/align,neutral/nature,stubborn/god,eyth/
 /family,man/shopguard/align,neutral/nature,relaxed/nature,honest/god,eyth/spellattackby,90122/directhealby,90551/spellattacker/medic/
 /family,man/shopguard/align,neutral/nature,lonely/god,eyth/buffby,90377/buffer/
-/family,man/shopguard/align,neutral/nature,jolly/god,eyth/directhealby,90551/medic/
+/family,man/shopguard/align,neutral/nature,jolly/god,eyth/
 /family,man/align,neutral/nature,foxy/god,eyth/
-/family,man/align,neutral/nature,heat/god,eyth/trait10,1/debuffby,90366/debuffer/
+/family,man/align,neutral/nature,heat/god,eyth/trait10,1/
 /family,man/align,neutral/nature,noble/nature,lax/god,opatos/
 /family,man/align,neutral/nature,quirky/god,opatos/
-/family,man/align,neutral/nature,jolly/nature,docile/god,eyth/
+/family,man/align,neutral/nature,jolly/nature,docile/god,eyth/trait12,1/
 /family,man/align,neutral/nature,rough/nature,stubborn/nature,idleness/god,opatos/
-/family,man/shopguard/align,neutral/nature,noble/god,eyth/spellattackby,90175/spellattacker/
+/family,man/shopguard/align,neutral/nature,noble/god,eyth/
 /family,man/align,neutral/nature,hasty/god,eyth/
 
-/family,undead/family,amorphs/align,chaotic/nature,delusional/nature,stubborn/nature,hasty/god,eyth/
+
 /family,demi/
 
 /family,wild/
