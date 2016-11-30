@@ -1,4 +1,4 @@
-/family,man/align,neutral/nature,jolly/nature,mild/god,itzpalt/spellattackby,90175/spellattacker/
+/family,man/align,neutral/nature,jolly/nature,mild/god,itzpalt/
 /family,man/align,neutral/nature,quirky/nature,naughty/god,itzpalt/
 /family,man/align,neutral/guild,thieve/nature,naive/god,eyth/
 /family,man/align,neutral/nature,quiet/god,itzpalt/
@@ -25,12 +25,12 @@
 /family,man/align,neutral/nature,stubborn/god,eyth/spellattackby,90122/spellattacker/
 /family,man/align,neutral/nature,adamant/god,eyth/
 /family,man/align,neutral/nature,sassy/god,itzpalt/
-/family,man/align,neutral/nature,quirky/god,eyth/
+/family,man/align,neutral/nature,quirky/god,itzpalt/
 /family,man/align,neutral/nature,relaxed/god,eyth/
 /family,man/align,neutral/nature,foxy/god,eyth/spellattackby,90175/spellattacker/
 /family,man/align,neutral/nature,bashful/god,eyth/
 /family,man/align,neutral/nature,docile/nature,hasty/god,eyth/
-/family,man/align,neutral/nature,serious/god,eyth/debuffby,90176/spellattackby,90123/debuffer/spellattacker/
+/family,man/align,neutral/nature,serious/god,itzpalt/debuffby,90176/spellattackby,90123/debuffer/spellattacker/
 /family,man/align,neutral/nature,courteous/nature,quirky/god,eyth/
 /family,man/align,neutral/nature,relaxed/god,eyth/
 /family,man/align,neutral/nature,lonely/god,eyth/
