@@ -1,5 +1,5 @@
-/family,man/align,neutral/nature,naive/spellattackby,90175/directhealby,90119/spellattacker/medic/god,ehekatl/
-/family,man/align,neutral/nature,relaxed/spellattackby,90120/spellattacker/god,ehekatl/
+/family,man/align,neutral/nature,naive/god,ehekatl/directhealby,90119/medic/
+/family,man/align,neutral/nature,relaxed/god,ehekatl/
 /slime/family,amorphs/putit/align,chaotic/nature,timid/god,eyth/
 /slime/family,amorphs/putit/align,chaotic/nature,mild/nature,gentle/god,eyth/
 /slime/family,amorphs/putit/align,chaotic/nature,adamant/nature,relaxed/god,eyth/
