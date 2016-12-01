@@ -1,9 +1,9 @@
-/family,man/align,neutral/nature,naive/god,ehekatl/directhealby,90119/medic/
-/family,man/align,neutral/nature,relaxed/god,ehekatl/
-/slime/family,amorphs/putit/align,chaotic/nature,timid/god,eyth/
-/slime/family,amorphs/putit/align,chaotic/nature,mild/nature,gentle/god,eyth/
-/slime/family,amorphs/putit/align,chaotic/nature,adamant/nature,relaxed/god,eyth/
-
+/family,god/align,lawful/nature,naive/god,lulwy/pet,0/areahealby,404/medic/
+/family,god/align,lawful/nature,rough/nature,honest/pet,0/god,lulwy/
+/family,man/align,chaotic/pet,0/god,itzpalt/nature,lonely/nature,serious/
+//family,empty/align,chaotic/nature,stubborn/nature,rash/nature,careful/pet,0/god,ehekatl/
+/family,undead/align,chaotic/nature,quirky/god,eyth/
+/family,man/family,gear/align,chaotic/nature,honest/nature,foxy/nature,modest/god,eyth/
 
 
 

@@ -30,7 +30,7 @@
 /family,man/align,neutral/nature,naughty/god,opatos/
 /family,man/align,neutral/nature,honest/nature,serious/god,opatos/
 /family,man/align,neutral/nature,modest/nature,idleness/god,opatos/
-/family,man/align,neutral/nature,naive/nature,bold/god,eyth/
+/family,wild/align,chaotic/nature,mild/nature,relaxed/god,eyth/
 /family,man/align,neutral/nature,coquettish/nature,heat/god,eyth/
 /family,man/align,neutral/nature,lax/god,eyth/
 /family,man/align,neutral/nature,careful/nature,gentle/god,eyth/
@@ -56,8 +56,8 @@
 /family,man/align,neutral/nature,coquettish/nature,careful/god,eyth/
 /family,man/align,neutral/nature,bashful/god,eyth/
 /family,wild/align,neutral/nature,stubborn/nature,noble/god,eyth/
-
-
+/family,undead/align,chaotic/nature,relaxed/god,eyth/
+/fire/family,plantoid/align,chaotic/nature,delusional/god,eyth/
 
 
 

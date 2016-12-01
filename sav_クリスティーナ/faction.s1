@@ -1,7 +1,11 @@
-/align,neutral/trait86,1/god,jure/trait74,3/
+/align,neutral/trait86,1/trait74,3/god,opatos/trait45,1/
 /family,wild/align,chaotic/nature,stubborn/god,eyth/pet,0/
-/family,god/align,lawful/nature,naive/pet,0/god,lulwy/areahealby,404/medic/
-/family,man/family,gear/align,chaotic/nature,naive/pet,0/god,itzpalt/
+
+/family,man/rogue/align,chaotic/nature,bold/nature,careful/nature,impish/pet,0/god,opatos/
+/family,wild/horse/align,neutral/nature,careful/god,eyth/pet,0/
+/family,man/family,gear/align,chaotic/nature,jolly/pet,0/god,opatos/
+/family,man/align,chaotic/nature,relaxed/debuffby,90176/debuffer/pet,0/god,ehekatl/
+/family,man/shopguard/align,neutral/nature,honest/pet,0/god,ehekatl/
 
 
 
@@ -10,23 +14,19 @@
 
 
 
-
-
-
-
-/family,man/shopguard/align,neutral/nature,quirky/nature,insensibility/god,eyth/directhealby,90119/medic/
+/family,man/shopguard/align,neutral/nature,quirky/nature,insensibility/god,eyth/
 /family,man/align,neutral/nature,docile/god,opatos/
 /family,man/align,neutral/nature,bashful/god,opatos/
 /family,man/align,neutral/nature,calm/nature,quirky/god,opatos/
 /family,man/align,neutral/nature,impish/god,eyth/
-/family,man/shopguard/align,neutral/nature,careful/nature,heat/god,eyth/trait68,1/debuffby,90176/debuffer/
+/family,man/shopguard/align,neutral/nature,careful/nature,heat/trait68,1/god,jure/
 /family,man/align,neutral/nature,mild/god,eyth/
-/family,man/align,neutral/nature,serious/god,eyth/spellattackby,90175/spellattacker/
-/family,man/align,neutral/nature,heat/nature,brave/god,opatos/
+/family,man/align,neutral/nature,serious/god,opatos/spellattackby,90175/spellattacker/
+/family,man/align,neutral/nature,heat/nature,brave/god,opatos/debuffby,90176/debuffer/
 /family,man/shopguard/align,neutral/nature,rash/god,ehekatl/
 /family,man/shopguard/align,neutral/nature,lonely/god,eyth/trait82,1/trait68,1/
 /family,man/shopguard/align,neutral/nature,mild/nature,modest/god,eyth/
-/family,man/align,neutral/nature,quirky/nature,brave/god,eyth/spellattackby,90175/spellattacker/
+/family,man/align,neutral/nature,quirky/nature,brave/god,eyth/spellattackby,90120/spellattacker/
 /family,man/align,neutral/nature,rash/god,eyth/
 /family,man/align,neutral/nature,jolly/god,opatos/buffby,90377/buffer/
 /family,man/shopguard/align,neutral/nature,sassy/god,itzpalt/
@@ -37,27 +37,27 @@
 /family,man/align,neutral/nature,foxy/nature,stubborn/god,eyth/
 /family,man/nature,brave/god,opatos/align,neutral/
 /family,man/align,neutral/nature,courteous/god,eyth/
-/family,man/align,neutral/nature,sassy/god,eyth/spellattackby,90122/spellattacker/
+/family,man/align,neutral/nature,sassy/god,eyth/
 /family,man/align,neutral/nature,stubborn/nature,noble/god,opatos/
-/family,man/align,neutral/nature,bashful/god,opatos/
+/family,man/align,neutral/nature,bashful/god,opatos/spellattackby,90120/spellattacker/
 /family,man/align,neutral/nature,lax/god,eyth/
 /family,man/align,neutral/nature,stubborn/god,eyth/
-/family,man/shopguard/align,neutral/nature,relaxed/nature,honest/god,eyth/buffby,90377/buffer/
+/family,man/shopguard/align,neutral/nature,relaxed/nature,honest/god,opatos/spellattackby,90120/buffby,90377/buffer/spellattacker/
 /family,man/shopguard/align,neutral/nature,lonely/god,eyth/buffby,90377/buffer/
 /family,man/shopguard/align,neutral/nature,jolly/god,eyth/
-/family,man/align,neutral/nature,foxy/god,eyth/directhealby,90119/medic/
+/family,man/align,neutral/nature,foxy/god,eyth/
 /family,man/align,neutral/nature,heat/god,eyth/trait10,1/
 /family,man/align,neutral/nature,noble/nature,lax/god,opatos/
 /family,man/align,neutral/nature,quirky/god,opatos/
 /family,man/align,neutral/nature,jolly/nature,docile/god,eyth/trait12,1/
 /family,man/align,neutral/nature,rough/nature,stubborn/nature,idleness/god,opatos/
 /family,man/shopguard/align,neutral/nature,noble/god,eyth/
-/family,man/align,neutral/nature,hasty/god,eyth/
+/family,man/align,neutral/nature,hasty/god,mani/
 
 
 /family,demi/
 
-/family,wild/
+
 
 
 /family,amorphs/
@@ -70,18 +70,18 @@
 
 
 
-/family,yeek/
-/family,wild/
+
+/family,man/
 
 
 /family,arcana/
 /family,empty/
 /family,dragon/
-
+/family,god/
 
 /family,man/
 /family,wild/
-
+/family,undead/
 /family,mino/
 /family,goblin/
 /family,demi/
@@ -90,11 +90,11 @@
 
 /family,amorphs/
 
-/family,god/
+/family,amorphs/
 
 
 /family,wild/
-
+/family,demi/
 /family,amorphs/
 
 
