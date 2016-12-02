@@ -1,10 +1,10 @@
-/align,neutral/trait86,1/trait74,3/god,opatos/trait45,1/
+/align,neutral/trait86,1/trait74,3/trait45,1/god,itzpalt/
 /family,wild/align,chaotic/nature,stubborn/god,eyth/pet,0/
-
+/family,man/align,chaotic/nature,insensibility/nature,gentle/spellattackby,90175/spellattacker/pet,0/god,jure/
 /family,man/rogue/align,chaotic/nature,bold/nature,careful/nature,impish/pet,0/god,opatos/
-/family,wild/horse/align,neutral/nature,careful/god,eyth/pet,0/
-/family,man/family,gear/align,chaotic/nature,jolly/pet,0/god,opatos/
-/family,man/align,chaotic/nature,relaxed/debuffby,90176/debuffer/pet,0/god,ehekatl/
+/family,man/sf/align,neutral/nature,gentle/nature,idleness/pet,0/god,jure/
+/family,man/align,chaotic/nature,courteous/debuffby,90366/debuffer/pet,0/god,itzpalt/
+/family,man/align,chaotic/nature,rash/spellattackby,90175/spellattacker/pet,0/god,itzpalt/
 /family,man/shopguard/align,neutral/nature,honest/pet,0/god,ehekatl/
 
 
@@ -41,7 +41,7 @@
 /family,man/align,neutral/nature,stubborn/nature,noble/god,opatos/
 /family,man/align,neutral/nature,bashful/god,opatos/spellattackby,90120/spellattacker/
 /family,man/align,neutral/nature,lax/god,eyth/
-/family,man/align,neutral/nature,stubborn/god,eyth/
+/family,man/align,neutral/nature,stubborn/god,eyth/debuffby,90176/debuffer/
 /family,man/shopguard/align,neutral/nature,relaxed/nature,honest/god,opatos/spellattackby,90120/buffby,90377/buffer/spellattacker/
 /family,man/shopguard/align,neutral/nature,lonely/god,eyth/buffby,90377/buffer/
 /family,man/shopguard/align,neutral/nature,jolly/god,eyth/
@@ -54,46 +54,46 @@
 /family,man/shopguard/align,neutral/nature,noble/god,eyth/
 /family,man/align,neutral/nature,hasty/god,mani/
 
-
-/family,demi/
-
-
-
-
-/family,amorphs/
-/family,man/
-/family,man/
-/family,arcana/
-
-/family,wild/
+/family,man/rogue/align,chaotic/nature,idleness/nature,hardy/god,eyth/
+/family,demon/
+/family,plantoid/
 
 
-
-
-
-/family,man/
-
-
-/family,arcana/
-/family,empty/
-/family,dragon/
 /family,god/
 
-/family,man/
-/family,wild/
 /family,undead/
+
+
+
+/family,wild/
+
+
+
+
+/family,wild/
+/family,man/
+/family,goblin/
+
+/family,arcana/
+
+/family,demi/
+/family,god/
+/family,wild/
+/family,demi/
+
+
 /family,mino/
 /family,goblin/
-/family,demi/
+
+/family,wild/
+/family,undead/
 /family,wild/
 /family,amorphs/
 
 /family,amorphs/
 
-/family,amorphs/
 
 
-/family,wild/
 /family,demi/
 /family,amorphs/
 
